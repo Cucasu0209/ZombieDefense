@@ -5,7 +5,175 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/0.Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/01 Destructible Sprite.unity
+    guid: 6b09624b25b2f2247863910d52d25d78
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/02 Optimize Sprite.unity
+    guid: 8501710ac4e0b914aa59735d0669c2ec
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/03 Edge Collider.unity
+    guid: 5fa97e7c425ee004a8e686c4ff6243f8
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/04 Polygon Collider.unity
+    guid: 3944a4dfa3b7932489ceab3ed55c7c3d
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/05 Splitter.unity
+    guid: a38e644230fa54e49958d88fe5725cdf
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/06 Slice.unity
+    guid: d72bfefa71fe22947aa5e9f2d65a02b3
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/07 Transparency.unity
+    guid: a5a101d731bdf9b4485b755527283718
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/08 Explosion.unity
+    guid: fff4dea789ca54142b85fd6d3cd7c01c
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/09 Explosion Interval.unity
+    guid: b210db2176fafa548a65476e1b8f1e56
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/10 Impact Fissure.unity
+    guid: 4a758cd27b442d24a99351222e1bb651
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/11 Split Sound.unity
+    guid: 26252566683c4514d8d0f14843068577
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/12 Fixture.unity
+    guid: 604f2bda44e535c46ab470088305fd3f
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/13 Break Off.unity
+    guid: 809e6eafc6a5064409ce91b24ab841bd
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/14 Impact Spawner.unity
+    guid: fb93faaf9176cec43a7ef2363f00e763
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/15 Damage.unity
+    guid: c132a7b3f53573d4c8d8b84b18b23de8
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/16 Fracture.unity
+    guid: acdadbdcf7a5e8243ada1bc5cda5ff76
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/17 Fracture Force.unity
+    guid: 6d76ec8fc94a86640a34ad8966de4740
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/18 Fracture Click.unity
+    guid: c3520413252eeca408f2562bef4ede3a
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/19 Lightbulb.unity
+    guid: ce2818b6eea7a214c8aac47ab6b4de94
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/20 Swap.unity
+    guid: ba126da1e31a7a64f845a5768f12a417
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/21 Layers.unity
+    guid: c7ef24c42b1ee9b439121b95744b18c9
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/22 Pierce.unity
+    guid: 35442f1ea6c26ae49a081f3ebdab6f74
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/23 Cracking Eggs.unity
+    guid: 9ca82c22a169037428e982ac5d907139
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/24 Heal.unity
+    guid: fb3e216b52a80b54c8ac43408b5c6071
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/25 Heal Cuts.unity
+    guid: f8f26bd4f09196740bfc2c12e3642e6d
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/26 Camera Shake.unity
+    guid: f201253231dd26c43abf5752ed9455b3
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/27 Follow.unity
+    guid: bb77a735657142e44ad6c5483ec0117f
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/28 Melt.unity
+    guid: afc8bb4cfcefbac4387af0791a5e7020
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/29 Animation.unity
+    guid: 3abe09934309022428ef330ce4cb9b1f
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/30 Static Joint.unity
+    guid: 753cb2d8555f53941b54cdc71a557144
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/31 Fixed Joint.unity
+    guid: 5622d9397e7b6f648936f3a3e03f50f1
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/32 Intermediary Joint.unity
+    guid: acb57f7061c65e34a9d1e0f8c61325be
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/33 Scorch Marks.unity
+    guid: 31bc16d823c0d1e4f932a193913098e5
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/34 Filesize Optimization.unity
+    guid: 3ad1112b049846f46b1c2bd7025c0025
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/35 Read Alpha.unity
+    guid: c37013fcde56d0645ab881925a1e5412
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/36 Pixelated.unity
+    guid: 5560a0e3a77c8fa4e95e800814149604
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/37 Trigger Overlap.unity
+    guid: a2fffd2f5af40154984b881aa2dd2eca
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/38 Impact Explosion.unity
+    guid: 18318d03eeee8854f90ffecb536812c2
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/39 Cut Opacity.unity
+    guid: 58d6d4a9d9085bc4da69ca349c0e491e
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/40 Paint Multiplier.unity
+    guid: 19783d3718f2eda49806ef7cd22c041a
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/41 Slicing Beam.unity
+    guid: b3a3726fceae1a5459755042a2e2e33e
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/42 Dynamic Texture.unity
+    guid: 8d354a820792c4d438b7ceb398877620
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/43 Solid Range.unity
+    guid: f2a678ad727398c4b85ce20c9386647a
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/44 Damage Threshold.unity
+    guid: b8d64acbb4079aa44aac471cadd6df8e
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/45 Monitor Pixels.unity
+    guid: fd0b9ab1a191ae040b92af53ff710540
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/Asteroid Blaster.unity
+    guid: 7a2fd98c4ce53d8488457e7aa8b42568
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/Asteroid Laser.unity
+    guid: b175830bb86764f489ba1f651e61a4c6
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/Crash Damage.unity
+    guid: f85053aac5922df48b8cdbaf0f23d5e5
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/Exploder.unity
+    guid: 372875e6049df974ca5adaead3e7dfa6
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/Glass Panels.unity
+    guid: 39d8d965458d778468f6d0c72965b4f5
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/Jumping Spaceship.unity
+    guid: 9e6a71c7c3a17b54188079842ec88e09
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/Scorch.unity
+    guid: 88575405c498dc640a82a6c97c54f66c
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/Shooting Gallery.unity
+    guid: 4bbf74626f8e926489596e6692e4dc73
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/Snake.unity
+    guid: 6dd8c592d29bfe64697940c0f9d4c3ce
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/Swinging Weight.unity
+    guid: 98fddd5af4fb13146a6cf00945e13328
+  - enabled: 1
+    path: Assets/Destructible 2D/Examples/Trees.unity
+    guid: 263a9a2c2a5e8914fb79b3f4ee392693
   m_configObjects: {}
